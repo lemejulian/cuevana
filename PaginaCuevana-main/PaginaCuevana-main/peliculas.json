@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "nombre": "DEADPOOL Y WOLVERINE",
+      "img": "assets/deadpoolywolverine.jpg",
+      "descripcion": "Deadpool y Wolverine se unen en una nueva aventura.",
+      "link": "http://enlace_deadpool_wolverine.com"
+    },
+    {
+      "nombre": "EL EXORCISTA DEL PAPA",
+      "img": "assets/elexoorcistadelpapa.jpg",
+      "descripcion": "Un sacerdote enfrenta fuerzas demoníacas.",
+      "link": "http://enlace_exorcista_papa.com"
+    },
+    {
+      "nombre": "APOSTOL",
+      "img": "assets/apostol.jpg",
+      "descripcion": "Descripción: Un hombre viaja a una remota isla en busca de su hermana secuestrada, solo para descubrir una secta religiosa peligrosa y misteriosa. Lo que comienza como una misión de rescate se convierte en una lucha por sobrevivir a los oscuros rituales del culto.",
+      "link": ""
+    },
+    {
+      "nombre": "RAPIDOS Y FURIOSOS 9",
+      "img": "assets/rapidoyfurioso9.jpg",
+      "descripcion": "Descripción: Dominic Toretto y su equipo se enfrentan a nuevas amenazas mientras descubren secretos del pasado. En esta emocionante entrega, las carreras callejeras se mezclan con la acción explosiva, llevando la adrenalina al límite en una lucha por salvar a la familia.",
+      "link": ""
+    },
+    {
+      "nombre": "CUANDO ACECHA LA MALDAD",
+      "img": "assets/cuandoacechalamaldad.avif",
+      "descripcion": "Descripción: Un pueblo es aterrado por fuerzas oscuras que acechan desde las sombras. Mientras los habitantes intentan comprender el origen del mal, se desata una ola de terror y desesperación, obligándolos a enfrentarse a sus peores miedos para sobrevivir.",
+      "link": ""
+    },
+    {
+      "nombre": "PEAKY BLINDERS",
+      "img": "assets/serie2.jpg",
+      "descripcion": "Peaky Blinders: Ambientada en la Inglaterra de la posguerra, Peaky Blinders sigue a la familia Shelby, un grupo de gánsteres liderados por el ambicioso Tommy Shelby. Mientras expanden su imperio criminal, enfrentan conflictos con rivales, autoridades y sus propios demonios internos."
+    },
+    {
+      "nombre": "SHOGUN",
+      "img": "assets/serie3.jpg",
+      "descripcion": "*Shōgun* es una serie épica ambientada en el Japón feudal, donde un navegante inglés naufragado se encuentra atrapado en medio de intrigas políticas y guerras de poder. A medida que se adapta a la cultura samurái, se enfrenta a desafíos que pondrán en riesgo su vida y sus creencias."
+    },
+    {
+      "nombre": "SONS OF ANARCHY",
+      "img": "assets/serie1.jpg",
+      "descripcion": "*Sons of Anarchy* sigue la vida de un club de motociclistas en California, donde la lealtad, la violencia y el conflicto interno marcan su lucha por el poder y la supervivencia. Con Jax Teller al centro, el club enfrenta desafíos que pondrán a prueba sus lazos familiares y su código de honor."
+    },
+    {
+      "nombre": "DARK",
+      "img": "assets/dark.jpg",
+      "descripcion": "Dark: Dark es un thriller alemán de ciencia ficción que explora los oscuros secretos de un pequeño pueblo donde el tiempo es relativo y las vidas de cuatro familias están entrelazadas a través de generaciones. Misterios, desapariciones y paradojas temporales convergen en una historia que desafía las leyes de la física y la moral."
+    }
+  ]
+}
